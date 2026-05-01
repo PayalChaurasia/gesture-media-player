@@ -36,3 +36,7 @@ Add your own media files in the `assets` folder:
 - clipp.mp4
 - clippp.mp4
 - music.mp3
+  
+ ## 🎥 Demo
+
+[▶️ Watch Demo Video](https://www.linkedin.com/posts/payal-chaurasia-4901593b9_python-opencv-computervision-ugcPost-7455987364222525440-hctj)
